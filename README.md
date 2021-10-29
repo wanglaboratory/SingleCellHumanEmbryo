@@ -12,3 +12,6 @@ The following analysis scripts are included:
 * 4 scRNA-seq analysis of human whole embyros of PCW3-5
 * 5 Spatial transcriptomic analysis of human PCW5 embryo
 * 6 human early whole embryo organogenesis analysis
+* 7 ENRT signal pathway analysis
+* 8 human and mouse whole embryo comparison
+* 9 human and mouse nervous system analysis
